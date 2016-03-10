@@ -1,0 +1,8 @@
+*.pdf
+*~
+*.ozf
+*.oza
+*.aux
+*.log
+*.backup
+*.PID
