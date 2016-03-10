@@ -1,6 +1,6 @@
 # PokemOz Project
 
-This project was graded 16/20.
+Functional programming project for my "Computer Language Concepts" class (Graded 18/20).
 
 In this directory, you can find all the .oz files you need to run the
 Pokemoz Project.
